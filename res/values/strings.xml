@@ -24,7 +24,7 @@
     <string name="label_screentime">Screen time</string>
 
     <!-- Settings -->
-    <string name="welcome_message">Welcome to Axion. Click here to set-up QuickLook.</string>
+    <string name="welcome_message">Welcome to MistOS. Click here to set-up QuickLook.</string>
     <string name="loading_text">Loading...</string>
     <string name="toast_calendar_permission_required">Calendar permission is required</string>
     <string name="allow_notification_access">Allow notification access</string>

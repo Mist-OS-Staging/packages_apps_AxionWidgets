@@ -17,7 +17,7 @@ import android.content.Context
 import android.provider.Settings
 import com.android.axion.widgets.AxionProvider
 import com.android.axion.widgets.data.QuickLookData
-import com.android.internal.util.android.OmniJawsClient
+import com.android.internal.util.crdroid.OmniJawsClient
 import com.android.axion.widgets.utils.callbackFlow
 import com.android.axion.widgets.utils.logger
 import dagger.hilt.android.qualifiers.ApplicationContext
